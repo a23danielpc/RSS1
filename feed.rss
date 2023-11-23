@@ -1,0 +1,15 @@
+<rss>
+    <chanel>
+        <title>Games</title>
+        <description>Games online</description>
+        <link>https://a23danielpc.github.io/RSS1/</link>
+        <pubDate>Thu, 23 Mpv 2023, 12:30</pubDate>
+        <managingEditor>DanielPortasanyCodina</managingEditor>
+        <item>
+            <title>Ikariam</title>
+            <link>https://a23danielpc.github.io/RSS1/</link>
+            <pubDate>Thu, 23 Mpv 2023, 12:30</pubDate>
+            <description>Description of my rss page about Ikariam</description>
+        </item>
+    </chanel>
+</rss>
